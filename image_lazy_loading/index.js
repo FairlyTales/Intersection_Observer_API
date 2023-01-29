@@ -13,6 +13,7 @@ const callback = (entries, observer) => {
 }
 
 const options = {
+	// trigger observer when target is 50px from intersecting with the root element
 	rootMargin: '50px',
 }
 
