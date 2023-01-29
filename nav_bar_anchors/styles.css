@@ -24,11 +24,11 @@ body {
   height: 100vh;
 }
 .section:nth-child(1) {
-  background: #ccc;
+  background: #525252;
 }
 .section:nth-child(2) {
-  background: #00f;
+  background: #030360;
 }
 .section:nth-child(3) {
-  background: #0f0;
+  background: #035203;
 }
